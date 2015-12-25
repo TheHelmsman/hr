@@ -6,3 +6,5 @@ Hacker Rank, rank programmers based on their coding skills, helping companies so
 
 Website:
 https://www.hackerrank.com/
+
+## All solutions written in JavaScript
